@@ -115,6 +115,11 @@ notices:
     particule: "de"
     fonction: "Officier de Marine"
     tags: [officier-marine]
+    nom : BLOIS de La CALANDE
+    prénom: Aymar
+    particule: "de"
+    fonction: Officier de Marine
+    tags:[officier-marine]
 
   - nom: "BOREL"
     prenom: "Pierre"
